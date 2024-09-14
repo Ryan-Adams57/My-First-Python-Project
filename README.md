@@ -1,2 +1,7 @@
 # My-First-Python-Project
-Hi everyone! I'm relatively new to this subreddit and noticed that many people are sharing their projects here. I wanted to share one of my initial projects from a while ago. It's a keylogger that captures keystrokes using the keyboard module and then saves the recorded data to a text file.
+
+Here’s a simple keylogger I created that logs all keyboard inputs and saves them to a file named Data.txt.
+
+I'm open to any suggestions for improving the code, as this is my first project I’m sharing. Feel free to recommend any modifications or tweaks.
+
+To run the program, you’ll need to install the "keyboard" package first by using the command: pip install keyboard.
